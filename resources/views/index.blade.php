@@ -16,7 +16,7 @@
 
     <nav class="navbar navbar-dark bg-gradient-primary mb-4">
         <div class="container">
-            <span class="navbar-brand mb-0 h1">📢 E-Aspirasi Warga</span>
+            <span class="navbar-brand mb-0 h1"> E-Aspirasi Warga</span>
         </div>
     </nav>
 
@@ -32,7 +32,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card shadow-sm">
                     <div class="card-header bg-white fw-bold">
-                        ✍️ Tulis Aspirasi
+                         Tulis Aspirasi
                     </div>
                     <div class="card-body">
                         <form action="{{ route('aspirasi.store') }}" method="POST">
